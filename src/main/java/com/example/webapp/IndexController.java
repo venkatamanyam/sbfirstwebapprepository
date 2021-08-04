@@ -8,6 +8,6 @@ public class IndexController {
 @RequestMapping("/index")
 	public String display()
 	{
-		return "index.jsp";
+		return "index.html";
 	}
 }
